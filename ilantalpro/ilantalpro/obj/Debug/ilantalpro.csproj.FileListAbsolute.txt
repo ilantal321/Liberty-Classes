@@ -1,0 +1,26 @@
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\bin\Debug\ilantalpro.exe.config
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\bin\Debug\ilantalpro.exe
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\bin\Debug\ilantalpro.pdb
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.csprojAssemblyReference.cache
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.Properties.Resources.resources
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.csproj.GenerateResource.cache
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.csproj.CoreCompileInputs.cache
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.exe
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.pdb
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.main.resources
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.StudentForm.resources
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.BookForm.resources
+C:\Users\ilant\Desktop\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.OrderForm.resources
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\bin\Debug\ilantalpro.exe.config
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\bin\Debug\ilantalpro.exe
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\bin\Debug\ilantalpro.pdb
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.csprojAssemblyReference.cache
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.BookForm.resources
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.main.resources
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.OrderForm.resources
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.Properties.Resources.resources
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.StudentForm.resources
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.csproj.GenerateResource.cache
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.csproj.CoreCompileInputs.cache
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.exe
+C:\Users\ilant\Desktop\מכללה\שנה ב\סמסטר א\ניתוח עיצוב מונחה עצמים\ilan tal C#\ilantalpro\ilantalpro\obj\Debug\ilantalpro.pdb
